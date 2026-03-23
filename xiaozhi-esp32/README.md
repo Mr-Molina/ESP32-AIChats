@@ -29,6 +29,9 @@
 | [ESP32-S3-RLCD-4.2](https://www.waveshare.net/shop/ESP32-S3-RLCD-4.2.htm)<br><img src="https://www.waveshare.net/photo/LCD/ESP32-S3-RLCD-4.2/ESP32-S3-RLCD-4.2-1.jpg" width="400"> | ✅ |
 | [ESP32-S3-AUDIO-Board](https://www.waveshare.net/shop/ESP32-S3-AUDIO-Board.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-AUDIO-Board/ESP32-S3-AUDIO-Board-1.jpg" width="400"> | ✅ |
 | [ESP32-S3-Touch-LCD-4B](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-4B.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-LCD-4B/ESP32-S3-Touch-LCD-4B-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-LCD-1.54](https://www.waveshare.net/shop/ESP32-S3-LCD-1.54.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-LCD-1.54/ESP32-S3-LCD-1.54-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-ePaper-3.97](https://www.waveshare.net/shop/ESP32-S3-ePaper-3.97.htm)<br><img src="https://www.waveshare.net/photo/LCD/ESP32-S3-ePaper-3.97/ESP32-S3-ePaper-3.97-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-LCD-0.85](https://www.waveshare.net/shop/ESP32-S3-LCD-0.85.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-LCD-0.85/ESP32-S3-LCD-0.85-1.jpg" width="400"> | ✅ |
 | [ESP32-S3-Touch-LCD-1.46](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-1.46.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-LCD-1.46/ESP32-S3-Touch-LCD-1.46-1.jpg" width="400"> | ✅ |
 | [ESP32-S3-Touch-LCD-3.49](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-3.49.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-LCD-3.49/ESP32-S3-Touch-LCD-3.49-5.jpg" width="400"> | ✅ |
 | [ESP32-S3-Touch-LCD-4.3C](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-4.3C.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-LCD-4.3C/ESP32-S3-Touch-LCD-4.3C-1.jpg" width="400"> | ✅ |
