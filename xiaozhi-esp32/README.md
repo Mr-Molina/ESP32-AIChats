@@ -1,12 +1,13 @@
 # 🚀 List of Supported Devices
 | Board | supported |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
 | [ESP32-C6-Touch-AMOLED-1.32](https://www.waveshare.net/shop/ESP32-C6-Touch-AMOLED-1.32.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-C6-Touch-AMOLED-1.32/ESP32-C6-Touch-AMOLED-1.32-1.jpg" width="400"> | ✅ |
 | [ESP32-C6-Touch-AMOLED-1.43](https://www.waveshare.net/shop/ESP32-C6-Touch-AMOLED-1.43.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-C6-Touch-AMOLED-1.43/ESP32-C6-Touch-AMOLED-1.43-1.jpg" width="400"> | ✅ |
 | [ESP32-C6-LCD-1.69](https://www.waveshare.net/shop/ESP32-C6-LCD-1.69.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-C6-LCD-1.69/ESP32-C6-LCD-1.69-1.jpg" width="400"> | ✅ |
 | [ESP32-C6-Touch-LCD-1.83](https://www.waveshare.net/shop/ESP32-C6-Touch-LCD-1.83.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-C6-Touch-LCD-1.83/ESP32-C6-Touch-LCD-1.83-1.jpg" width="400"> | ✅ |
 | [ESP32-C6-Touch-AMOLED-1.8](https://www.waveshare.net/shop/ESP32-C6-Touch-AMOLED-1.8.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-C6-Touch-AMOLED-1.8/ESP32-C6-Touch-AMOLED-1.8-1.jpg" width="400"> | ✅ |
 | [ESP32-C6-Touch-AMOLED-2.06](https://www.waveshare.net/shop/ESP32-C6-Touch-AMOLED-2.06.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-C6-Touch-AMOLED-2.06/ESP32-C6-Touch-AMOLED-2.06-1.jpg" width="400"> | ✅ |
+| [ESP32-C6-Touch-AMOLED-2.16](https://www.waveshare.net/shop/ESP32-C6-Touch-AMOLED-2.16.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-C6-Touch-AMOLED-2.16/ESP32-C6-Touch-AMOLED-2.16-1.jpg" width="400"> | ✅ |
 | [ESP32-P4-NANO-10.1-A](https://www.waveshare.net/shop/ESP32-P4-NANO-KIT-D.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-NANO/ESP32-P4-NANO-KIT-D.jpg" width="400"> | ✅ |
 | [ESP32-P4-WIFI6-Touch-LCD-3.4C](https://www.waveshare.net/shop/ESP32-P4-WIFI6-Touch-LCD-3.4C.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-WIFI6-Touch-LCD-XC/ESP32-P4-WIFI6-Touch-LCD-3.4C-1.jpg" width="400"> | ✅ |
 | [ESP32-P4-WIFI6-Touch-LCD-4B](https://www.waveshare.net/shop/ESP32-P4-WIFI6-Touch-LCD-4B.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-86-Panel-ETH-2RO/ESP32-P4-WIFI6-Touch-LCD-4B-1.jpg" width="400"> | ✅ |
@@ -15,6 +16,8 @@
 | [ESP32-P4-WIFI6-Touch-LCD-7](https://www.waveshare.net/shop/ESP32-P4-WIFI6-Touch-LCD-7.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-WIFI6-Touch-LCD-7/ESP32-P4-WIFI6-Touch-LCD-7-1.jpg" width="400"> | ✅ |
 | [ESP32-P4-WIFI6-Touch-LCD-8](https://www.waveshare.net/shop/ESP32-P4-WIFI6-Touch-LCD-8.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-WIFI6-Touch-LCD-7/ESP32-P4-WIFI6-Touch-LCD-8-1.jpg" width="400"> | ✅ |
 | [ESP32-P4-WIFI6-Touch-LCD-10.1](https://www.waveshare.net/shop/ESP32-P4-WIFI6-Touch-LCD-10.1.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-WIFI6-Touch-LCD-7/ESP32-P4-WIFI6-Touch-LCD-10.1-1.jpg" width="400"> | ✅ |
+| [ESP32-P4-WIFI6-Touch-LCD-3.5](https://www.waveshare.net/shop/ESP32-P4-WIFI6-Touch-LCD-3.5.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-WIFI6-Touch-LCD-3.5/ESP32-P4-WIFI6-Touch-LCD-3.5-1.jpg" width="400"> | ✅ |
+| [ESP32-P4-WIFI6-Touch-LCD-4.3](https://www.waveshare.net/shop/ESP32-P4-WIFI6-Touch-LCD-4.3.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-P4-WIFI6-Touch-LCD-4.3/ESP32-P4-WIFI6-Touch-LCD-4.3-1.jpg" width="400"> | ✅ |
 | [ESP32-S3-Touch-AMOLED-1.32](https://www.waveshare.net/shop/ESP32-S3-Touch-AMOLED-1.32.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-AMOLED-1.32/ESP32-S3-Touch-AMOLED-1.32-1.jpg" width="400"> | ✅ |
 | [ESP32-S3-ePaper-1.54](https://www.waveshare.net/shop/ESP32-S3-ePaper-1.54.htm)<br><img src="https://www.waveshare.net/photo/LCD/ESP32-S3-ePaper-1.54/ESP32-S3-ePaper-1.54-1.jpg?v=1" width="400"> | ✅ |
 | [ESP32-S3-Touch-AMOLED-1.75](https://www.waveshare.net/shop/ESP32-S3-Touch-AMOLED-1.75.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-AMOLED-1.75/ESP32-S3-Touch-AMOLED-1.75-1.jpg" width="400"> | ✅ |
@@ -35,6 +38,12 @@
 | [ESP32-S3-Touch-LCD-1.46](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-1.46.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-LCD-1.46/ESP32-S3-Touch-LCD-1.46-1.jpg" width="400"> | ✅ |
 | [ESP32-S3-Touch-LCD-3.49](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-3.49.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-LCD-3.49/ESP32-S3-Touch-LCD-3.49-5.jpg" width="400"> | ✅ |
 | [ESP32-S3-Touch-LCD-4.3C](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-4.3C.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-LCD-4.3C/ESP32-S3-Touch-LCD-4.3C-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-Touch-AMOLED-2.16](https://www.waveshare.net/shop/ESP32-S3-Touch-AMOLED-2.16.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-AMOLED-2.16/ESP32-S3-Touch-AMOLED-2.16-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-Touch-AMOLED-1.43C](https://www.waveshare.net/shop/ESP32-S3-Touch-AMOLED-1.43C.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-Touch-AMOLED-1.43C/ESP32-S3-Touch-AMOLED-1.43C-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-CAM-1.83](https://www.waveshare.net/shop/ESP32-S3-CAM-OV5640.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-CAM-OVxxxx/ESP32-S3-CAM-OV5640-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-CAM-2.8](https://www.waveshare.net/shop/ESP32-S3-CAM-OV5640.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-CAM-OVxxxx/ESP32-S3-CAM-OV5640-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-CAM-2](https://www.waveshare.net/shop/ESP32-S3-CAM-OV5640.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-CAM-OVxxxx/ESP32-S3-CAM-OV5640-1.jpg" width="400"> | ✅ |
+| [ESP32-S3-CAM-3.5](https://www.waveshare.net/shop/ESP32-S3-CAM-OV5640.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-S3-CAM-OVxxxx/ESP32-S3-CAM-OV5640-1.jpg" width="400"> | ✅ |
 | [ESP32-Touch-LCD-3.5](https://www.waveshare.net/shop/ESP32-Touch-LCD-3.5.htm)<br><img src="https://www.waveshare.net/photo/development-board/ESP32-Touch-LCD-3.5/ESP32-Touch-LCD-3.5-1.jpg" width="400"> | ✅ |
 
 
