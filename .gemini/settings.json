@@ -1,0 +1,45 @@
+{
+  "autoAccept": true,
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    },
+    "enablePermanentToolApproval": true,
+    "enableConseca": false,
+    "folderTrust": {
+      "enabled": true
+    }
+  },
+  "general": {
+    "defaultApprovalMode": "plan",
+    "enableNotifications": true,
+    "plan": {
+      "enabled": true
+    }
+  },
+  "experimental": {
+    "autoMemory": true,
+    "generalistProfile": true,
+    "contextManagement": true,
+    "worktrees": true,
+    "modelSteering": true,
+    "directWebFetch": true
+  },
+  "ui": {
+    "inlineThinkingMode": "full",
+    "showStatusInTitle": true,
+    "footer": {
+      "hideContextPercentage": false
+    },
+    "showMemoryUsage": true,
+    "showModelInfoInChat": true,
+    "loadingPhrases": "tips",
+    "errorVerbosity": "full"
+  },
+  "ide": {
+    "enabled": true
+  },
+  "tools": {
+    "disableLLMCorrection": false
+  }
+}
